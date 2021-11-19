@@ -7,8 +7,8 @@ The app has the following functionality:
 This software was developed using a Kanban approach
 
 # Screenshots
-![alt text](https://github.com/ldunneone/Snoop-Test-Luke-Dunne/blob/master/app/images/BeerList.png)
-![alt text](https://github.com/ldunneone/Snoop-Test-Luke-Dunne/blob/master/app/images/Details.png)
+![Beer List Screenshot](https://github.com/ldunneone/Snoop-Test-Luke-Dunne/blob/master/app/images/BeerList.png)
+![Beer Details Screenshot](https://github.com/ldunneone/Snoop-Test-Luke-Dunne/blob/master/app/images/Details.png)
 
 # Libraries Used
 - Koin to provide constructor dependency injection to classes in the application
