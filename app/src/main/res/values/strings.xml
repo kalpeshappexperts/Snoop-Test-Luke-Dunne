@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Snoop_Interview</string>
+    <string name="title_home">Beer List</string>
+    <string name="text_beer_name">Corona Light</string>
+    <string name="text_beer_tagline">Cool drink</string>
+    <string name="text_abv">6.5</string>
+    <string name="text_ibu">65</string>
+    <string name="image_beer_content_description">The photo of the beer.</string>
+    <string name="beer_description_detail">Cool drink to hang out with. </string>
+    <string name="description_arrow">The back arrow</string>
+    <string name="ibu_label">ibu</string>
+    <string name="abv_label">abv</string>
+</resources>
